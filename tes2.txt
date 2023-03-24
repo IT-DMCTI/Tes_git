@@ -1,2 +1,4 @@
 tes text
 halim buat fitur a
+
+ikbal tambah fitur g
